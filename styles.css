@@ -31,7 +31,7 @@ p {
 
 .contact-me {
   margin-top: 0;
-  height: 300px;
+  height: 350px;
 }
 
 .designtwo {
@@ -209,13 +209,13 @@ span {
 .hireme {
   position: absolute;
   display: inline-block;
-  right: 400px;
+  right: 365px;
   padding-top: 5%;
 }
 
 .footernote {
     position: absolute;
     display: inline-block;
-    right: 33%;
+    right: 31%;
     padding-top: 10%;
   }
