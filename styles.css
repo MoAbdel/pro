@@ -55,7 +55,8 @@ p {
   position: relative;
   display: inline-block;
   bottom: 130px;
-  right: 22%;
+  right: 20%;
+  font-size: 28px;
 }
 
 .paragraphtwo {
