@@ -109,7 +109,7 @@ h3 {
 .bottom-container {
   background-color: #bae5e5;
   width: 100%;
-  height: 150px;
+  height: 100%;
 }
 
 .middle-container {
@@ -206,15 +206,20 @@ span {
 }
 
 .hireme {
-  position: absolute;
-  display: inline-block;
-  right: 31%;
-  padding-top: 2%;
+  position: relative;
+  padding-top: 1%;
 }
 
 .footernote {
-    position: absolute;
-    display: inline-block;
-    right: 33%;
-    padding-top: 6%;
+    position: relative;
   }
+
+.footer{
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #bae5e5;
+   color: white;
+   text-align: center;
+}
